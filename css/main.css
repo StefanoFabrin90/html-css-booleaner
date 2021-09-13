@@ -1,12 +1,35 @@
 .container{
-    width: 50%;
+    width: 1000px;
     background-color:lightgrey;
     margin: 50px;
 }
 
+/* header */
 .write-by{
     color: #4c89bf;
 }
 .date{
-    
+    font-size: 12px;
+}
+
+/* main */
+.tim{
+
+}
+.img{
+    width: 200px;
+    height: 200px;
+}
+
+.img2{
+    width: 200px;
+    height: 200px;
+}
+
+.description-photo{
+    font-size: 12px;
+}
+
+#most-important{
+    background-color: yellow;
 }
