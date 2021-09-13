@@ -1,6 +1,5 @@
 .container{
     width: 1000px;
-    background-color:lightgrey;
     margin: 50px;
 }
 
@@ -17,13 +16,13 @@
 
 }
 .img{
-    width: 200px;
-    height: 200px;
+    width: 490px;
+    height: 300px;
 }
 
 .img2{
-    width: 200px;
-    height: 200px;
+    width: 490px;
+    height: 300px;
 }
 
 .description-photo{
@@ -35,7 +34,6 @@
 }
 
 .table, th, td{
-    border: 1px solid black;
     border-collapse: collapse;
 }
 
@@ -45,4 +43,10 @@
 
 #body{
     background-color: lightblue;
+}
+
+/* footer */
+
+h2{
+    color: rgba(77, 72, 72, 0.445);
 }
